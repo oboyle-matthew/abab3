@@ -34,6 +34,7 @@ def searchForPair(file, prefIndex, pair, pairSplit, currIndex):
 
 def dealWithUnmatchables():
 	if (len(unmatchables) % 2 == 1):
+		unmatchables.sort(key=len)
 		lastGroup = unmatchables.pop()
 		resultsBySmallest = sorted(result, key=lambda k: len(result[k]))
 		result[resultsBySmallest[0]].append([lastGroup])
