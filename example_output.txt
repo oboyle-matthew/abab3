@@ -1,0 +1,50 @@
+Here are the teams for topic 1
+ee4,ee5 & ff8
+aa8 & ee8
+
+
+Here are the teams for topic 2
+jj2,jj3 & ff6,ff7
+ii6,ii7 & jj
+hh4,hh5 & bb0,bb1
+jj4,jj5 & gg8
+hh8 & bb4,bb5
+
+
+Here are the teams for topic 3
+jj8 & ee6,ee7
+cc8 & hh8
+cc0,cc1 & ee2,ee3
+gg2,gg3 & dd0,dd1
+dd8 & dd0,dd1
+ii0,ii1 & ff8
+
+
+Here are the teams for topic 4
+bb6,bb7 & cc2,cc3
+aa0,aa1 & aa8
+
+
+Here are the teams for topic 5
+gg8 & dd4,dd5
+jj6,jj7 & ee8
+cc4,cc5 & aa4,aa5
+ee0,ee1 & gg6,gg7
+ii8 & bb2,bb3
+ii8 & jj0,jj1
+
+
+Here are the teams for topic 6
+aa2,aa3 & cc6,cc7
+hh2,hh3 & cc2,cc3
+cc8 & bb8
+hh6,hh7 & ii4,ii5
+hh0,hh1 & ii2,ii3
+
+
+Here are the teams for topic 7
+gg4,gg5 & ff4,ff5
+dd2,dd3 & aa6,aa7
+dd8 & gg0,gg1
+ff0,ff1 & ff2,ff3
+bb8 & dd6,dd7
