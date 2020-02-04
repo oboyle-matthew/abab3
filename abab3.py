@@ -65,14 +65,17 @@ def findMatch(file):
 	if (len(unmatchables) > 0):
 		dealWithUnmatchables()
 
+def printResults():
+	for (k, v) in sorted(result.items()):
+		print("Here are the teams for topic " + k)
+		for group in v:
+			if (len(group) == 1):
+				print(group[0][:-7])
+			else:
+				print(group[0][:-7] + " & " + group[1][:-7])
+		print("\n")
+
 
 findMatch(file)
-for (k, v) in sorted(result.items()):
-	print("Here are the teams for topic " + k)
-	for group in v:
-		if (len(group) == 1):
-			print(group[0][:-7])
-		else:
-			print(group[0][:-7] + " & " + group[1][:-7])
-	print("\n")
+printResults()
 
